@@ -1,2 +1,2 @@
 # trial-project
-This is my first trial GitHub project.
+This is a just trial GitHub project.
